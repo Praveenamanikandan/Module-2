@@ -1,16 +1,17 @@
-# Lambda Function in Python: Addition of Two Numbers
+## AIM
+ToWrite a lambda function which takes z as a parameter and returns z*11 using python
 
-## 🎯 Aim
-To write a Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum.
+## ALGORITHM
+Step 1: Start the program. Step 2: Take the necessary input(s) from the user. Step 3: Process the input(s) using suitable operations or conditions. Step 4: Display the result/output to the user. Step 5: Stop the program.
 
-## 🧠 Algorithm
-1. Get two integer inputs from the user.
-2. Use a **lambda function** to define a function `f` that returns `a + b`.
-3. Call the function with the user inputs and print the result.
+## PROGRAM
+f = lambda z: z * 11
 
-## 🧾 Program
-Add code here
+# Example usage
+num = int(input())
+print(f(num))
+## OUTPUT
+<img width="621" height="254" alt="image" src="https://github.com/user-attachments/assets/48fecabd-799c-424f-8528-3159edbd1803" />
 
-## Output
-
-## Result
+## RESULT
+The program was executed successfully
